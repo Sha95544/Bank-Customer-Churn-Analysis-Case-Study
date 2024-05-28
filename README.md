@@ -9,5 +9,5 @@ Manipulated and visualized data from a fictitious bank in Power BI to derive ins
 ### Churn Rates across different regions, active customers and card types 
 ![image](https://github.com/Sha95544/Bank-Customer-Churn-Analysis-Case-Study/assets/62758405/5622c574-9075-4a4f-ba9b-cd6df3af0082)
 
-### Churn rates across number of products held by customers, customer satisfaction score and points earned by customers
+### Churn rates across number of products , customer satisfaction score and points earned by customers
 ![image](https://github.com/Sha95544/Bank-Customer-Churn-Analysis-Case-Study/assets/62758405/6194bdac-513e-4644-9d7a-b5743ecb5733)
