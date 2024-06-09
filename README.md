@@ -1,6 +1,6 @@
 # Bank-Customer-Churn-Analysis-Case-Study
 ## Project Overview
-Manipulated and visualized data from a fictitious bank in Power BI to derive insights on churn rates based on various factors such as age segments, regions, subscription type etc.
+Manipulated and visualized data from a fictitious bank in Power BI to derive insights on churn rates based on various factors such as age segments, regions, subscription types etc.
 ## Report Highlights
 ### Overall Summary
 ![image](https://github.com/Sha95544/Bank-Customer-Churn-Analysis-Case-Study/assets/62758405/271fc5f1-7d94-4f8a-ba0e-2121bdc25ea2)<br><br>
