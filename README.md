@@ -26,7 +26,7 @@ Churn rates are typically consistent across all tenures i.e the duration for whi
 ### Churn rates across regions
 ![image](https://github.com/Sha95544/Bank-Customer-Churn-Analysis-Case-Study/assets/62758405/7a4c80cb-6c76-47eb-8a80-f65ab9874a83)<br>
 #### Insights:
-The churn rates across **Germany** is much higher as compared to Spain and France. The bank needs to pay special focus on its customer retention strategy within Germany otherwise the churn rates in this region wuld prove to be a major loss for the business.<br><br>
+The churn rates across **Germany** is much higher as compared to Spain and France. The bank needs to pay special focus on its customer retention strategy within Germany otherwise the churn rates in this region would prove to be a major loss for the business.<br><br>
 ### Churn rates by card types
 ![image](https://github.com/Sha95544/Bank-Customer-Churn-Analysis-Case-Study/assets/62758405/9dab5004-4edb-417f-904f-4d7597caf70b)<br>
 #### Insights:
@@ -42,5 +42,5 @@ The churn rates are fairly consistent across customer staisfaction scores. The r
 ### Churn rates across customer earned points
 ![image](https://github.com/Sha95544/Bank-Customer-Churn-Analysis-Case-Study/assets/62758405/097afbbe-3057-4c18-8fd4-4e80c327ef92)<br>
 #### Insights:
-Customers who earned very low points left the bank more often with the rest of them churning at a pretty even rate.: Higher points may correlate with higher customer engagement and loyalty. Customers who interact more frequently with the bank and earn more points are likely more satisfied with the services and benefits, leading to lower attrition rates.<br><br>
+Customers who earned **very low** points left the bank more often with the rest of them churning at a pretty even rate.: Higher points may correlate with higher customer engagement and loyalty. Customers who interact more frequently with the bank and earn more points are likely more satisfied with the services and benefits, leading to lower attrition rates.<br><br>
 The bank could work to enhance engagement strategies to encourage more interaction, such as loyalty programs, personalized offers, and reward systems.<br><br>
