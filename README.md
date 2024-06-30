@@ -36,11 +36,12 @@ For customers who have stayed with the bank for at most **seven years**, churn r
 #### Insights:
 Customers who held **3** or **4** products left the bank at a much higher rate as compared to customers who held a fewer number of products. Maybe they didn't like the fact that they were being sold so many products.<br><br>
 ### Churn rates across customer satisfaction scores
-![image](https://github.com/Sha95544/Bank-Customer-Churn-Analysis-Case-Study/assets/62758405/097afbbe-3057-4c18-8fd4-4e80c327ef92)<br>
+![image](https://github.com/Sha95544/Bank-Customer-Churn-Analysis-Case-Study/assets/62758405/5fb17c2e-d3a6-4594-af5f-ee07870555e0)
+<br>
 #### Insights:
 The churn rates are fairly consistent across customer staisfaction scores. The results are susrpising since I would have definitely assumed that the churn rates would be higher for customers with lower satisfaction scores and vice versa.<br><br>
 ### Churn rates across customer earned points
-![image](https://github.com/Sha95544/Bank-Customer-Churn-Analysis-Case-Study/assets/62758405/097afbbe-3057-4c18-8fd4-4e80c327ef92)<br>
+![image](https://github.com/Sha95544/Bank-Customer-Churn-Analysis-Case-Study/assets/62758405/cbeb4fcf-6b7a-4a9c-9edb-a6a5c1df31c0)<br>
 #### Insights:
 Customers who earned **very low** points left the bank more often with the rest of them churning at a pretty even rate.: Higher points may correlate with higher customer engagement and loyalty. Customers who interact more frequently with the bank and earn more points are likely more satisfied with the services and benefits, leading to lower attrition rates.<br><br>
 The bank could work to enhance engagement strategies to encourage more interaction, such as loyalty programs, personalized offers, and reward systems.<br><br>
